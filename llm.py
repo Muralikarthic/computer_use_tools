@@ -6,7 +6,7 @@ import re
 from google import genai
 
 # ===== CONFIG =====
-API_KEY = "AIzaSyAsLqZjxsObQeF9SyQf9Dh3DNlncJ0sMH0"
+API_KEY = "MY_API_KEY"
 
 SEARCH_X, SEARCH_Y = 265, 156
 MSG_X, MSG_Y = 762, 1035
